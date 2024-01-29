@@ -4,8 +4,17 @@
         "label": [0, 1],
         "title": "Blue Bird",
         "name": "Naruto",
-        "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/a0061203910_16.jpg",
-        "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/test.mp3",
-        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Naruto-Blue_Bird.band.zip"
+        "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Naruto-Blue_Bird/Naruto-Blue_Bird.jpg",
+        "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Naruto-Blue_Bird/Naruto-Blue_Bird.mp3",
+        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Naruto-Blue_Bird/Naruto-Blue_Bird.band.zip"
+    },
+    {
+        "id": "2",
+        "label": [0, 1],
+        "title": "Binks no Sake",
+        "name": "One Piece",
+        "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Binks_no_Sake-One_Piece/Binks_no_Sake-One_Piece.jpg",
+        "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Binks_no_Sake-One_Piece/Binks_no_Sake-One_Piece.mp3",
+        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Binks_no_Sake-One_Piece/Binks_no_Sake-One_Piece.band.zip"
     }
 ]
