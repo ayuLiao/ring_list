@@ -1,7 +1,10 @@
 [
     {
         "id": "1",
-        "label": [0, 1],
+        "label": [
+            0,
+            1
+        ],
         "title": "Blue Bird",
         "name": "Naruto",
         "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Naruto-Blue_Bird/Naruto-Blue_Bird.jpg",
@@ -10,7 +13,9 @@
     },
     {
         "id": "2",
-        "label": [2],
+        "label": [
+            2
+        ],
         "title": "Binks no Sake",
         "name": "One Piece",
         "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Binks_no_Sake-One_Piece/Binks_no_Sake-One_Piece.jpg",
@@ -19,7 +24,10 @@
     },
     {
         "id": "3",
-        "label": [0, 1],
+        "label": [
+            0,
+            1
+        ],
         "title": "Ultra Instinct Theme",
         "name": "Dragon Ball Super",
         "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Ultra_Instinct_Theme-Dragon_Ball_Super/Ultra_Instinct_Theme-Dragon_Ball_Super.jpg",
@@ -28,7 +36,10 @@
     },
     {
         "id": "4",
-        "label": [0, 1],
+        "label": [
+            0,
+            1
+        ],
         "title": "Number One x Ichigo's Theme",
         "name": "Bleach",
         "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Bleach-Number_One_x_Ichigos/Bleach-Number_One_x_Ichigos.jpg",
@@ -37,7 +48,10 @@
     },
     {
         "id": "5",
-        "label": [0, 1],
+        "label": [
+            0,
+            1
+        ],
         "title": "Den Den Mushi",
         "name": "One Piece",
         "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Den_Den_Mushi-One_Piece/Den_Den_Mushi-One_Piece.jpg",
@@ -46,11 +60,26 @@
     },
     {
         "id": "6",
-        "label": [0, 1],
+        "label": [
+            0,
+            1
+        ],
         "title": "Cha La Head",
         "name": "Dragon Ball Z",
         "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Dragon_Ball_Z-Cha_La_Head/Dragon_Ball_Z-Cha_La_Head.jpg",
         "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Dragon_Ball_Z-Cha_La_Head/Dragon_Ball_Z-Cha_La_Head.mp3",
         "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Dragon_Ball_Z-Cha_La_Head/Dragon_Ball_Z-Cha_La_Head.band.zip"
+    },
+    {
+        "id": "7",
+        "label": [
+            0,
+            1
+        ],
+        "title": "Merry Go Round",
+        "name": "Howl's Moving Castle",
+        "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Howl_Moving_Castle-Merry_Go_Round/Howl_Moving_Castle-Merry_Go_Round.jpg",
+        "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Howl_Moving_Castle-Merry_Go_Round/Howl_Moving_Castle-Merry_Go_Round.mp3",
+        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Howl_Moving_Castle-Merry_Go_Round/Howl_Moving_Castle-Merry_Go_Round.band.zip"
     }
 ]
