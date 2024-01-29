@@ -34,5 +34,23 @@
         "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Bleach-Number_One_x_Ichigos/Bleach-Number_One_x_Ichigos.jpg",
         "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Bleach-Number_One_x_Ichigos/Bleach-Number_One_x_Ichigos.mp3",
         "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Project.zip"
+    },
+    {
+        "id": "5",
+        "label": [0, 1],
+        "title": "Den Den Mushi",
+        "name": "One Piece",
+        "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Den_Den_Mushi-One_Piece/Den_Den_Mushi-One_Piece.jpg",
+        "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Den_Den_Mushi-One_Piece/Den_Den_Mushi-One_Piece.mp3",
+        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Den_Den_Mushi-One_Piece/Den_Den_Mushi-One_Piece.band.zip"
+    },
+    {
+        "id": "6",
+        "label": [0, 1],
+        "title": "Cha La Head",
+        "name": "Dragon Ball Z",
+        "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Dragon_Ball_Z-Cha_La_Head/Dragon_Ball_Z-Cha_La_Head.jpg",
+        "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Dragon_Ball_Z-Cha_La_Head/Dragon_Ball_Z-Cha_La_Head.mp3",
+        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Dragon_Ball_Z-Cha_La_Head/Dragon_Ball_Z-Cha_La_Head.band.zip"
     }
 ]
