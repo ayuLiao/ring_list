@@ -16,5 +16,23 @@
         "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Binks_no_Sake-One_Piece/Binks_no_Sake-One_Piece.jpg",
         "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Binks_no_Sake-One_Piece/Binks_no_Sake-One_Piece.mp3",
         "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Binks_no_Sake-One_Piece/Binks_no_Sake-One_Piece.band.zip"
+    },
+    {
+        "id": "3",
+        "label": [0, 1],
+        "title": "Ultra Instinct Theme",
+        "name": "Dragon Ball Super",
+        "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Ultra_Instinct_Theme-Dragon_Ball_Super/Ultra_Instinct_Theme-Dragon_Ball_Super.jpg",
+        "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Ultra_Instinct_Theme-Dragon_Ball_Super/Ultra_Instinct_Theme-Dragon_Ball_Super.mp3",
+        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Ultra_Instinct_Theme-Dragon_Ball_Super/Ultra_Instinct_Theme-Dragon_Ball_Super.band.zip"
+    },
+    {
+        "id": "4",
+        "label": [0, 1],
+        "title": "Number One x Ichigo's Theme",
+        "name": "Bleach",
+        "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Bleach-Number_One_x_Ichigos Theme/Bleach-Number_One_x_Ichigos Theme.jpg",
+        "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Bleach-Number_One_x_Ichigos Theme/Bleach-Number_One_x_Ichigos Theme.mp3",
+        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Bleach-Number_One_x_Ichigos Theme/Bleach-Number_One_x_Ichigos Theme.band.zip"
     }
 ]
