@@ -1,6 +1,6 @@
 [
 	{ "label": "Recommend", "type": 0 },
-	{ "label": "Jazz", "type": 1 },
+	{ "label": "Anime", "type": 1 },
 	{ "label": "Rock", "type": 2 },
 	{ "label": "Hip-hop", "type": 3 },
 	{ "label": "Classical", "type": 4 }
