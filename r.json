@@ -20,7 +20,8 @@
         "name": "One Piece",
         "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Binks_no_Sake-One_Piece/Binks_no_Sake-One_Piece.jpg",
         "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Binks_no_Sake-One_Piece/Binks_no_Sake-One_Piece.mp3",
-        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Binks_no_Sake-One_Piece/Binks_no_Sake-One_Piece.band.zip"
+        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Binks_no_Sake-One_Piece/Binks_no_Sake-One_Piece.band.zip",
+        "band_name": "Binks_no_Sake-One_Piece.band"
     },
     {
         "id": "3",
@@ -32,7 +33,8 @@
         "name": "Dragon Ball Super",
         "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Ultra_Instinct_Theme-Dragon_Ball_Super/Ultra_Instinct_Theme-Dragon_Ball_Super.jpg",
         "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Ultra_Instinct_Theme-Dragon_Ball_Super/Ultra_Instinct_Theme-Dragon_Ball_Super.mp3",
-        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Ultra_Instinct_Theme-Dragon_Ball_Super/Ultra_Instinct_Theme-Dragon_Ball_Super.band.zip"
+        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Ultra_Instinct_Theme-Dragon_Ball_Super/Ultra_Instinct_Theme-Dragon_Ball_Super.band.zip",
+        "band_name": "Ultra_Instinct_Theme-Dragon_Ball_Super.band"
     },
     {
         "id": "4",
@@ -44,7 +46,8 @@
         "name": "Bleach",
         "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Bleach-Number_One_x_Ichigos/Bleach-Number_One_x_Ichigos.jpg",
         "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Bleach-Number_One_x_Ichigos/Bleach-Number_One_x_Ichigos.mp3",
-        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Project.zip"
+        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Bleach-Number_One_x_Ichigos/Bleach-Number_One_x_Ichigos.band.zip",
+        "band_name": "Bleach-Number_One_x_Ichigos.band"
     },
     {
         "id": "5",
@@ -56,7 +59,8 @@
         "name": "One Piece",
         "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Den_Den_Mushi-One_Piece/Den_Den_Mushi-One_Piece.jpg",
         "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Den_Den_Mushi-One_Piece/Den_Den_Mushi-One_Piece.mp3",
-        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Den_Den_Mushi-One_Piece/Den_Den_Mushi-One_Piece.band.zip"
+        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Den_Den_Mushi-One_Piece/Den_Den_Mushi-One_Piece.band.zip",
+        "band_name": "Den_Den_Mushi-One_Piece.band"
     },
     {
         "id": "6",
@@ -68,7 +72,8 @@
         "name": "Dragon Ball Z",
         "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Dragon_Ball_Z-Cha_La_Head/Dragon_Ball_Z-Cha_La_Head.jpg",
         "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Dragon_Ball_Z-Cha_La_Head/Dragon_Ball_Z-Cha_La_Head.mp3",
-        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Dragon_Ball_Z-Cha_La_Head/Dragon_Ball_Z-Cha_La_Head.band.zip"
+        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Dragon_Ball_Z-Cha_La_Head/Dragon_Ball_Z-Cha_La_Head.band.zip",
+        "band_name": "Dragon_Ball_Z-Cha_La_Head.band"
     },
     {
         "id": "7",
@@ -80,6 +85,7 @@
         "name": "Howl's Moving Castle",
         "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Howl_Moving_Castle-Merry_Go_Round/Howl_Moving_Castle-Merry_Go_Round.jpg",
         "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Howl_Moving_Castle-Merry_Go_Round/Howl_Moving_Castle-Merry_Go_Round.mp3",
-        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Howl_Moving_Castle-Merry_Go_Round/Howl_Moving_Castle-Merry_Go_Round.band.zip"
+        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Howl_Moving_Castle-Merry_Go_Round/Howl_Moving_Castle-Merry_Go_Round.band.zip",
+        "band_name": "Howl_Moving_Castle-Merry_Go_Round.band"
     }
 ]
