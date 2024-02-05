@@ -1,6 +1,6 @@
 [
     {
-        "id": "1",
+        "id": "5",
         "label": [
             0,
             1
@@ -9,11 +9,13 @@
         "name": "Naruto",
         "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Naruto-Blue_Bird/Naruto-Blue_Bird.jpg",
         "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Naruto-Blue_Bird/Naruto-Blue_Bird.mp3",
-        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Naruto-Blue_Bird/Naruto-Blue_Bird.band.zip"
+        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Naruto-Blue_Bird/Naruto-Blue_Bird.band.zip",
+        "band_name": "Naruto-Blue_Bird.band"
     },
     {
         "id": "2",
         "label": [
+            0,
             2
         ],
         "title": "Binks no Sake",
@@ -50,10 +52,10 @@
         "band_name": "Bleach-Number_One_x_Ichigos.band"
     },
     {
-        "id": "5",
+        "id": "1",
         "label": [
             0,
-            1
+            2
         ],
         "title": "Den Den Mushi",
         "name": "One Piece",
@@ -87,5 +89,57 @@
         "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Howl_Moving_Castle-Merry_Go_Round/Howl_Moving_Castle-Merry_Go_Round.mp3",
         "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Howl_Moving_Castle-Merry_Go_Round/Howl_Moving_Castle-Merry_Go_Round.band.zip",
         "band_name": "Howl_Moving_Castle-Merry_Go_Round.band"
+    },
+    {
+        "id": "8",
+        "label": [
+            0,
+            1
+        ],
+        "title": "Cry Baby",
+        "name": "Tokyo Revengers",
+        "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Tokyo_Revengers-Cry_Baby/Tokyo_Revengers-Cry_Baby.jpg",
+        "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Tokyo_Revengers-Cry_Baby/Tokyo_Revengers-Cry_Baby.mp3",
+        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Tokyo_Revengers-Cry_Baby/Tokyo_Revengers-Cry_Baby.band.zip",
+        "band_name": "Tokyo_Revengers-Cry_Baby.band"
+    },
+    {
+        "id": "9",
+        "label": [
+            0,
+            1
+        ],
+        "title": "The Rumbling",
+        "name": "Attack on Titan",
+        "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/The_Rumbling-Attack_on_Titan/The_Rumbling-Attack_on_Titan.jpg",
+        "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/The_Rumbling-Attack_on_Titan/The_Rumbling-Attack_on_Titan.mp3",
+        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/The_Rumbling-Attack_on_Titan/The_Rumbling-Attack_on_Titan.band.zip",
+        "band_name": "The_Rumbling-Attack_on_Titan.band"
+    },
+    {
+        "id": "10",
+        "label": [
+            0,
+            1
+        ],
+        "title": "Idol",
+        "name": "Oshi no Ko",
+        "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Idol-Oshi_no_Ko/Idol-Oshi_no_Ko.jpg",
+        "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Idol-Oshi_no_Ko/Idol-Oshi_no_Ko.mp3",
+        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Idol-Oshi_no_Ko/Idol-Oshi_no_Ko.band.zip",
+        "band_name": "Idol-Oshi_no_Ko.band"
+    },
+    {
+        "id": "10",
+        "label": [
+            0,
+            1
+        ],
+        "title": "Sadness and Sorrow",
+        "name": "Naruto",
+        "image_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Sadness_and_Sorrow-Naruto/Sadness_and_Sorrow-Naruto.jpg",
+        "mp3_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Sadness_and_Sorrow-Naruto/Sadness_and_Sorrow-Naruto.mp3",
+        "band_url": "https://pub-9affbfb0f938465cb0249e5c5db115bf.r2.dev/Sadness_and_Sorrow-Naruto/Sadness_and_Sorrow-Naruto.band.zip",
+        "band_name": "Sadness_and_Sorrow-Naruto.band"
     }
 ]
